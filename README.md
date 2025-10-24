@@ -1,2 +1,3 @@
 # Try-Out-Search-Engines
-Please note: I’m not accepting pull requests for this project.
+
+- Search engines that use other search engines aren't included!
